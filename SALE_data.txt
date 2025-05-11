@@ -1,0 +1,46 @@
+John Doe,Car Wash,01/10/2025,25.00
+Sarah Lee,Interior Cleaning,01/20/2025,50.00
+Mike Chen,Waxing,02/05/2025,75.50
+Emily Davis,Detailing,02/18/2025,120.00
+David Park,Car Wash,03/03/2025,30.00
+John Doe,Waxing,03/22/2025,80.00
+Sarah Lee,Car Wash,04/15/2025,25.00
+Emily Davis,Interior Cleaning,04/30/2025,55.00
+Mike Chen,Detailing,05/06/2025,130.00
+David Park,Waxing,05/21/2025,85.00
+John Doe,Interior Cleaning,06/11/2025,60.00
+Sarah Lee,Car Wash,06/27/2025,28.00
+Emily Davis,Detailing,07/09/2025,140.00
+Mike Chen,Car Wash,07/23/2025,30.00
+David Park,Waxing,08/04/2025,90.00
+John Doe,Detailing,08/19/2025,150.00
+Sarah Lee,Waxing,09/02/2025,70.00
+Emily Davis,Interior Cleaning,09/18/2025,58.00
+Mike Chen,Car Wash,10/01/2025,32.00
+David Park,Detailing,10/14/2025,145.00
+John Doe,Waxing,11/05/2025,85.00
+Sarah Lee,Car Wash,11/20/2025,26.00
+Emily Davis,Detailing,12/03/2025,160.00
+Mike Chen,Interior Cleaning,12/15/2025,65.00
+Alex Kim,Car Wash,01/15/2025,27.00
+Lisa Wong,Detailing,02/22/2025,125.00
+Chris Evans,Waxing,03/12/2025,78.00
+Megan Fox,Car Wash,04/17/2025,30.00
+Daniel Lee,Interior Cleaning,05/25/2025,60.00
+Alex Kim,Waxing,06/07/2025,75.00
+Lisa Wong,Car Wash,07/18/2025,29.00
+Chris Evans,Detailing,08/21/2025,135.00
+Megan Fox,Waxing,09/11/2025,82.00
+Daniel Lee,Car Wash,10/16/2025,33.00
+Alex Kim,Detailing,11/29/2025,148.00
+Lisa Wong,Waxing,12/22/2025,92.00
+John Doe,Car Wash,01/08/2026,26.00
+Sarah Lee,Interior Cleaning,02/14/2026,52.00
+Mike Chen,Waxing,03/19/2026,77.00
+Emily Davis,Detailing,04/05/2026,118.00
+David Park,Car Wash,05/11/2026,31.00
+Alex Kim,Waxing,06/23/2026,88.00
+Lisa Wong,Detailing,07/17/2026,132.00
+Chris Evans,Car Wash,08/28/2026,34.00
+Megan Fox,Interior Cleaning,09/15/2026,63.00
+Daniel Lee,Detailing,10/03/2026,142.00
