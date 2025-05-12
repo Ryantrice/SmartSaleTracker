@@ -44,4 +44,3 @@ Lisa Wong,Detailing,07/17/2026,132
 Chris Evans,Car Wash,08/28/2026,34
 Megan Fox,Interior Cleaning,09/15/2026,63
 Daniel Lee,Detailing,10/03/2026,142
-ryan,oil,02/02/2024,12.4

@@ -46,13 +46,17 @@ This project demonstrates core C++ concepts such as:
 
 ## How to Use
 
-1. Compile the code using any C++ IDE or `g++`.
-2. Run the program and use the numbered menu to:
+1. Compile the code using any C++ IDE or `g++`. 
+or with command "g++ -o SmartSalesTracker.exe main.cpp Sale.cpp SalesTracker.cpp " in terminal if excecutable file is not created
+   - Ex. 'g++ -o SmartSalesTracker.exe main.cpp Sale.cpp SalesTracker.cpp'
+2. Run the excecutable with by inserting excecutable command in terminal.
+   - Ex. './SmartSaleTracker.exe'
+3. Run the program and use the numbered menu to:
    - Add new sale records
    - View monthly or yearly summaries
    - Manage and delete sales
-3. Export summaries as text files when prompted.
-
+4. Export summaries as text files when prompted.
+   
 ---
 
 ## Sample Data File

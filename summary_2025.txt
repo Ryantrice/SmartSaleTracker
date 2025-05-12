@@ -1,0 +1,26 @@
+Yearly Summary: 2025
+-------------------------
+
+January: $102.00
+February: $320.50
+March: $188.00
+April: $110.00
+May: $275.00
+June: $163.00
+July: $199.00
+August: $375.00
+September: $210.00
+October: $210.00
+November: $259.00
+December: $317.00
+
+-------------------------
+Total Sales by Product:
+- Car Wash: $315.00
+- Detailing: $1253.00
+- Interior Cleaning: $348.00
+- Waxing: $812.50
+
+-------------------------
+Total Sales: $2728.50
+Best Month: August ($375.00)

@@ -5,9 +5,10 @@
 * and reads them out to user, as well as exporting data to other files
 */
 
-#include "SalesTracker.h"
+
 #include <iostream>
 #include <iomanip>
+#include "SalesTracker.h"
 using namespace std;
 
 void spacing();
